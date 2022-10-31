@@ -1,2 +1,1 @@
-# python-assignments
-Assignments (bit tasks) from Python course
+## le big tasks
