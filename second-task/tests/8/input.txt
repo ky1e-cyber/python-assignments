@@ -1,0 +1,2 @@
+grep -r "text" >new_result.txt
+grep -r -c "text"

@@ -1,0 +1,2 @@
+grep -r "recursion" >result.txt
+grep -c "dir2" result.txt

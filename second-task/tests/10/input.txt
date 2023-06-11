@@ -1,0 +1,4 @@
+cat tmp.txt > result.txt
+cat tmp.txt >> result.txt
+cat result.txt >> tmp.txt
+cat tmp.txt

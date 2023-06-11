@@ -1,0 +1,4 @@
+this is a text with some words
+we need to get only strings with
+word text in it
+so, not this one

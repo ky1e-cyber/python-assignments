@@ -1,0 +1,2 @@
+dir1 some_text_file.txt test
+dir1 some_text_file.txt test test2

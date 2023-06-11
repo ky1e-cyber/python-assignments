@@ -1,0 +1,15 @@
+script -> (complex_command (<semicolon> | <newline>))* complex_command EOF
+
+complex_command -> command ("|" command)* (redirect_in | redirect_out | redirect_out_append)*
+
+command -> command_name arg*
+
+command_name -> <word>
+
+arg -> <word>
+
+redirect_in -> "<" <word>
+
+redirect_out -> ">" <word>
+
+redirect_out_append -> ">>" <word>

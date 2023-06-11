@@ -1,0 +1,2 @@
+this is a text with some words
+word text in it

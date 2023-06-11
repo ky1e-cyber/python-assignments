@@ -1,0 +1,3 @@
+and even more
+just some text and some more text
+dir1 result.txt some_text_file.txt

@@ -1,0 +1,5 @@
+and_more.txt:ok, here it is: hello@gmail.com
+another_text_file.txt:1) hello@gmail.com
+another_text_file.txt:2) hello@yandex.ru
+another_text_file.txt:3) hello@rambler.ru
+some_text_file.txt:hello@gmail.com

@@ -1,0 +1,2 @@
+grep "\d+" test/some_text_file.txt
+grep -c "\d+" test/some_text_file.txt

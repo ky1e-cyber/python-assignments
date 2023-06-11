@@ -1,0 +1,4 @@
+list of emails:
+1) hello@gmail.com
+2) hello@yandex.ru
+3) hello@rambler.ru

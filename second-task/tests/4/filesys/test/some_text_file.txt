@@ -1,0 +1,4 @@
+this is a text with some numbers: 42
+we need to get only strings with them
+123 224
+1122
