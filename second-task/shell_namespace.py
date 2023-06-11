@@ -10,7 +10,7 @@ def _iter_counter(i: Iterator):
     return sum(1 for _ in i)
 
 class _BasicCommand:
-    def _parse_args(args: List[str]) -> (List[str], Dict[str, Optional[str]]):
+    def _parse_args(args: List[str]) -> Tuple[List[str], Dict[str, Optional[str]]]:
         pos_args = []
         flag_args = dict()
         for a in args:
